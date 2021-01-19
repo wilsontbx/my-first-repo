@@ -23,3 +23,8 @@
 #spacing {
   margin: 100px;
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+}
